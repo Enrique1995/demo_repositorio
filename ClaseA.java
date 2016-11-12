@@ -11,4 +11,7 @@ public class ClaseA{
     codigo = "";
   
   }
+  public void mensaje(){
+	  Syste.out.println("Hola");
+  }
  }
